@@ -46,4 +46,5 @@ Temporary Items
 *.mat
 *posterior.csv
 isltr/out/
+isltr/main/job
 
