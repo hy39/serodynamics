@@ -1,0 +1,7 @@
+>figure2_rmse
+
+CI(group1  2  3  4):0.19012\r\npeak occurs at day 293.4187(257, 329)\r\nconvert to date: 20-Oct-2009 10:03:00\r\nsingle_peak from average Incidence 301(28-Oct-2009)
+rmse (until peak) for mean incidence model1:2629.1584
+rmse (until peak) for mean incidence model2:4521.1702
+rmse (full data) for mean incidence model1:6232.0273
+rmse (full data) for mean incidence model2:8221.2449

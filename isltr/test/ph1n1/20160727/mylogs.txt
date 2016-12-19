@@ -1,0 +1,9 @@
+CI(group1  2  3  4):0.25761
+peak occurs at day 257.4(251, 267)
+convert to date: 14-Sep-2009 09:36:00
+single_peak from average Incidence 258(15-Sep-2009)
+CI lb:CI(group1  2  3  4):0.2403
+CI ub:CI(group1  2  3  4):0.28342
+CIT1T2 mean:0.24
+CIT1T2 lb:0.2302
+CIT1T2 ub:0.25831
