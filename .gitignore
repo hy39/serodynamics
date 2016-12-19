@@ -45,4 +45,5 @@ Temporary Items
 # Matlab data files
 *.mat
 *posterior.csv
+isltr/out/
 
